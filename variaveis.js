@@ -19,3 +19,6 @@ var nullable = null
 
 //undefined
 var undefinedValue
+
+//constant
+const pi = 3.14
